@@ -1,0 +1,7 @@
+.border_1{
+    border: 3px dashed  black;
+    height: 130px;
+    width: 550px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
